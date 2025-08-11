@@ -6,3 +6,6 @@
 *.dll
 *.so
 *.dylib
+
+# startingGolangはGitHubにアップロードしない
+/startingGolang/
