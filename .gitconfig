@@ -1,7 +1,0 @@
-[user]
-	email = owl.lophorina@gmail.com
-	name = katakake_fukurou
-[init]
-	defaultBranch = main
-[core]
-	editor = code --wait
